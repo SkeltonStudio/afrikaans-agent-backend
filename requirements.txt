@@ -4,5 +4,6 @@ neo4j==5.14.1
 sse-starlette==1.8.2
 pydantic==2.5.0
 python-multipart==0.0.6
-sseclient-py==1.8.0
-requests==2.31.0 
+# sseclient-py==1.8.0  ← comment this out for now
+requests==2.31.0
+# elevenlabs    ← if it's in there 
